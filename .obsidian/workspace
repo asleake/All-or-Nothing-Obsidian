@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "878d4c9d8de010e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d38a65ddc1ca5ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCS/Scathka.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "32014ae82a882c45",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCS/Shadowplane Assassins.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa37618854a1ee25",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f1d2991202446b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3bccb83f6743ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "066605c604bc4450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae640b5b17e87d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "869517753ee9feb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42b1b9b28f95cd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/NPCS/Shadowplane Assassins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32014ae82a882c45",
+  "lastOpenFiles": [
+    "Characters/NPCS/Shadowplane Assassins.md",
+    "Characters/NPCS/Scathka.md",
+    "Characters/NPCS/Velstrak.md",
+    "Items/Cursed Barbed Vest.md",
+    "Events/Gala.md",
+    "Characters/PCs/Tasselock Hoffuholmes.md",
+    "Characters/The Party.md",
+    "Characters/PCs/Miwar.md",
+    "Characters/PCs/Löwenzahn.md",
+    "Characters/PCs/Jjeet L'ee.md"
+  ]
+}
