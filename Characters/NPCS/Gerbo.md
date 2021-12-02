@@ -1,3 +1,3 @@
-Regular at [[Gage]]'s [[Casino]].
+Regular at [[Gage Carlyle]]'s [[Casino]].
 
-Gave us information on [[Gage]]'s feud with [[Scathka]].
+Gave us information on [[Gage Carlyle]]'s feud with [[Scathka]].

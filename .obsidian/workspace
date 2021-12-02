@@ -7,8 +7,11 @@
         "id": "4d38a65ddc1ca5ea",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Places/Casino.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Casino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "4d38a65ddc1ca5ea",
   "lastOpenFiles": [
-    "Characters/PCs/Jjeet L'ee.md",
-    "Characters/NPCS/Captain Acelia.md",
-    "Characters/NPCS/Gerbo.md",
-    "Characters/NPCS/Shadowplane Assassins.md",
-    "Characters/NPCS/Velstrak.md",
-    "Items/Cursed Barbed Vest.md",
-    "Events/Gala.md",
-    "Events/Casino Infiltration.md",
-    "Characters/NPCS/Scathka.md",
-    "Characters/PCs/Tasselock Hoffuholmes.md"
+    "Places/Casino.md",
+    "Places/Absalom/Ascendant Court.md",
+    "Places/Absalom.md",
+    "Places/Absalom/Azlanti Keep.md",
+    "Places/Absalom/Petal District.md",
+    "Places/Absalom/East Gate.md",
+    "Places/Absalom/Precipice Quarter.md",
+    "Places/Absalom/The Docks.md",
+    "Places/Absalom/Foreign Quarter.md",
+    "Places/Absalom/The Puddles.md"
   ]
 }
