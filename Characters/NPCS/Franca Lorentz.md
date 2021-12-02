@@ -1,0 +1,1 @@
+Stole the [[Doomsday Device]]. Worked as a guard at the [[Casino]] for about a month, but left suddenly about two weeks before our [[Casino Infiltration]].

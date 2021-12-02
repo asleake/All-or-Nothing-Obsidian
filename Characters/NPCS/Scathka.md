@@ -1,0 +1,2 @@
+Half-elf Wizard
+In a feud with [[Gage]] because [[Gage]] won a [[Cursed Barbed Vest]] off of him in a game of cards. Hired [[Shadowplane Assassins]] to try and recover the vest during [[Gage]]'s [[Gala]].

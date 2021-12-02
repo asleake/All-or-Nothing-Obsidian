@@ -1,0 +1,1 @@
+Owned by [[Gage]], has a safe underneath. Contained [[Doomsday Device]].
