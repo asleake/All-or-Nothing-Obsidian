@@ -7,22 +7,8 @@
         "id": "4d38a65ddc1ca5ea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCS/Scathka.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "32014ae82a882c45",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCS/Shadowplane Assassins.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCS/Shadowplane Assassins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32014ae82a882c45",
+  "active": "4d38a65ddc1ca5ea",
   "lastOpenFiles": [
+    "Characters/PCs/Jjeet L'ee.md",
+    "Characters/NPCS/Captain Acelia.md",
+    "Characters/NPCS/Gerbo.md",
     "Characters/NPCS/Shadowplane Assassins.md",
-    "Characters/NPCS/Scathka.md",
     "Characters/NPCS/Velstrak.md",
     "Items/Cursed Barbed Vest.md",
     "Events/Gala.md",
-    "Characters/PCs/Tasselock Hoffuholmes.md",
-    "Characters/The Party.md",
-    "Characters/PCs/Miwar.md",
-    "Characters/PCs/Löwenzahn.md",
-    "Characters/PCs/Jjeet L'ee.md"
+    "Events/Casino Infiltration.md",
+    "Characters/NPCS/Scathka.md",
+    "Characters/PCs/Tasselock Hoffuholmes.md"
   ]
 }
