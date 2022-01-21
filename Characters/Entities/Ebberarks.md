@@ -1,0 +1,1 @@
+Spit flammable oil and light it on fire with their tails.

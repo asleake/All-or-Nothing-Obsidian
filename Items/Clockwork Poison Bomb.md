@@ -1,0 +1,1 @@
+Contains the same poison used in the [[Murder Den]]. Looks like the plan is to use it at the [[Blood City Games]] to target the [[Aiorium]].

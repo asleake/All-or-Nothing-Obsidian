@@ -1,0 +1,1 @@
+Entrant in the [[Blood City Games]]
